@@ -1,2 +1,1 @@
-# riscv-toolchains
-gnu toolchains including vector assembler
+# Binary Toolchains for RISCV
